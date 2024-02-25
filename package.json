@@ -1,0 +1,22 @@
+{
+  "name": "zkmuzle-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkmuzle/zkmuzle-js.git"
+  },
+  "author": "zkmuzle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkmuzle/zkmuzle-js/issues"
+  },
+  "homepage": "https://github.com/zkmuzle/zkmuzle-js#readme",
+  "dependencies": {
+    "zkmuzle-js": "^1.0.0"
+  }
+}
